@@ -1,0 +1,6 @@
+Congratulations, you've successfully connected your QubeOS account!
+
+Any files you add or change in this folder will be automatically synced to 
+ssh://git@github.com/abbacchioit/firsttest.git and everyone connected to it.
+
+Have fun! :)
